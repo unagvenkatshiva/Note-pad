@@ -1,0 +1,11 @@
+* import tkinter(GUI toolkit)
+* ttk(themed widgets
+* import os(functions for interacting with the operating system)
+* wm_iconbitmap(icon app) 
+* PhotoImage(to display images in labels, buttons, canvases, and text widgets)
+* tearoff(allows you to detach menus for the main window creating floating menus)
+* StringVar(it's either an ASCII string or a Unicode string, depending on the contents)
+* Label(is used to display text or an image)
+* pack(the Pack geometry manager packs widgets in rows or columns)
+* padx(it puts some space between the button widgets)
+* relief(for 3-D efects)
